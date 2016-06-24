@@ -4,7 +4,7 @@ if (isset($_POST['login'])){
 	
 	$servername = "localhost";
 	$username = "ibhatt";
-	$password = "ektasumit2628";
+	$password = "*********";
 	$database = "hotelLogins";
 	
 	$conn = mysqli_connect($servername, $username, $password, $database);
